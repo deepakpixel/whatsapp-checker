@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-checker",
+  "version": "1.0.0",
+  "description": "Lightweight serverless WhatsApp URL status validator for Vercel",
+  "type": "module",
+  "main": "api/check.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["whatsapp", "link-checker", "verifier", "vercel"],
+  "author": "Deepak Jangra",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
